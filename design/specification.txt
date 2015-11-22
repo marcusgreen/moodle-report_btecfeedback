@@ -1,0 +1,6 @@
+Specification for the Moodle BTEC progress report
+
+This report is designed to be used with the Moodle BTEC grading plugin.
+https://github.com/marcusgreen/moodle-gradingform_btec
+
+It is installed under moodle/reports/btec and generates a table showing 
